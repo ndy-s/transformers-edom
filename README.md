@@ -1,10 +1,13 @@
 # Transformers EDOM
-This repository contains code and research findings related to sentiment analysis on student reviews of lecturers. The goal is to compare the performance of four different pre-trained models, all trained in the Indonesian language such as M-BERT, IndoBERT, RoBERTa Indonesia, and GPT-2 Indonesia.
+
+This repository includes code and research findings on sentiment analysis of student reviews for lecturers. The objective is to compare the performance of four pre-trained models in Indonesian: M-BERT, IndoBERT, RoBERTa Indonesia, and GPT-2 Indonesia. Additionally, statistical analysis is performed using one-way ANOVA to assess the significance of the differences among the models performances.
 
 ![image](https://github.com/ndy-s/transformers-edom/assets/94002483/0174046a-97d0-47cd-9dcc-0b71b5721163)
 
-## Dataset (Private)
-The dataset used for this study is a private dataset containing student reviews of lecturers. Due to its sensitive nature and containing university-specific information, it is not shared publicly in this repository.
+## Dataset
+
+This study uses a private dataset containing student reviews of lecturers. Due to the sensitive nature of this data, including university-specific information, the dataset is not publicly shared. However, you can access it through the following link: [EDOM Student Feedback Dataset](https://my.unri.ac.id/fXPmJH).
 
 ## License
+
 MIT
